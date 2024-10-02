@@ -15,4 +15,6 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="docker-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+    <img align="center" height="30" width="40" alt="docker-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
+    <img align="center" height="30" width="40" alt="docker-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
    </div>
