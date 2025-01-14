@@ -1,7 +1,6 @@
 ## Muito Bem Vindo!!
 
 <div>
-  
   <img  height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=DanielRRSilva&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" width="430em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRRSilva&layout=compact&langs_count=16&theme=aura"/>
 </div>
