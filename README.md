@@ -1,5 +1,13 @@
-## Muito Bem Vindo!!
+<h1>Bem Vindo!! Eu sou Daniel.</h1>
 
+- 👤 **Este é meu perfil de projetos da faculdade**
+- 🎓 Cursando **{Analise e Desenvolvimento de Sistemas} na {SpTech}.**
+<div>
+  Entre em contato:
+  <br><br>
+</div>
+<a href = "mailto:rosaesilvadanielricardo@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
+<a href="https://www.linkedin.com/in/daniel-ricardo-rosa-e-silva-452a68228/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 <div>
   <img  height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=DanielRRSilva&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" width="430em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRRSilva&layout=compact&langs_count=16&theme=aura"/>
